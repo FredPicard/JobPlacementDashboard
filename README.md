@@ -160,7 +160,7 @@ This front end story is another hover effect for buttons.
 
 * Practice with team programming/pair programming when one developer runs into a bug they cannot solve
 
-* Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
+*Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
 
                   
 
